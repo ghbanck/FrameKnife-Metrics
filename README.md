@@ -2,7 +2,7 @@
   <img src="media/hero.jpg" alt="FrameKnife Metrics, a transparent always-on-top screen ruler, grid and guide overlay for Windows, measuring a website, a sketch, a photo, a 3D viewport, a game HUD and a video editor" width="100%">
 </p>
 
-https://github.com/user-attachments/assets/e00173d2-5871-4b46-bbdb-943900f7818c
+https://github.com/user-attachments/assets/aa68201d-df81-4d6e-94b4-52f645977896
 
 <h1 align="center">FrameKnife Metrics</h1>
 
